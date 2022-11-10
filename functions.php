@@ -4,7 +4,7 @@
  * SIMPLE CUSTOM POST TYPE:
  * This is the code you need to create a bare-bones WordPress custom
  * post type that will allow you to better organize the posts on your
- * site. This code is according to the WordPress Codex.
+ * site. This code is according to the WordPress Codex/Developers Handbook.
  */
 
 function basic_custom_post_type() {
@@ -35,12 +35,6 @@ function basic_custom_post_type() {
  * */
 
 function advance_custom_post_type() {
-    
-    /**
-     * Register a widgets post type.
-     *
-     * @link http://codex.wordpress.org/Function_Reference/register_post_type
-     */
      
     // Define the labels used inside the WordPress admin for this custom post type (CPT)
         $labels = array(

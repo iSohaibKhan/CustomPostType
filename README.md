@@ -1,4 +1,5 @@
 # Custom Post Types (WordPress)
+<p><b>Custom Post Types</b> are specific post types that have been added to <b>WordPress</b> using custom code or plugins. The idea is that you may want to add additional functionality to your site but don't want to add everything as a standard post.</p>
 <p>By following the instructions you can create your own <b>Custom Post Type</b> in your <b>WordPress</b> dashboard with out any plugin.</p>
 <p>The <b>PHP</b> code in this repository is the new function that you would create by adding it to your <b>functions.php</b> file, copy it from here & paste it in your relative file.</p>
 <h2>Directory Path</h2>

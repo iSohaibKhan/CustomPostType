@@ -13,5 +13,5 @@
   <li><b>Line #11:</b> Here in this line you will select the slug of your <b>Custom Post Type</b> (lowercase), <b><em>'rewrite' => array('slug' => 'projects'),</em></b> instead of <b>projects</b> you can name it as per your liking.</li>
 </ul>
 <h3>NOTE</h3>
-<p>If after registering your post type by using this code if you create an item through dashboard then it will give you the link & if you open it, & it shows <b>404 Error</b> then just don't panic, go to your settings select the permalinks and don't change anything in there just make the save changes then you're good to go. This usually happens when ever the slug is different from your name of the <b>Custom Post Tyeps</b> or if you change the slug in the future.</p>
+<p>If after registering your post type, you create an item/custom post through dashboard with new registered <b>Custom Post Type</b> it will provide your the permalink & if you open it, & it shows <b>404 Error</b> then just don't panic, go to your settings select the permalinks and don't change anything in there just make the save changes at the bottom then you're good to go. This usually happens when ever the slug is different from your name of the <b>Custom Post Tyeps</b> or if you change the slug in the future.</p>
 
